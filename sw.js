@@ -1,4 +1,4 @@
-const CACHE = '4x-player-v1';
+const CACHE = '4x-player-v2';
 const ASSETS = [
   './',
   './index.html',
