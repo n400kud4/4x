@@ -1,8 +1,10 @@
-const CACHE = '4x-player-v3';
+const CACHE = '4x-player-v4';
 const ASSETS = [
   './',
   './index.html',
   './manifest.webmanifest',
+  './lifespan.html',
+  './lifespan-manifest.webmanifest',
   './icon-192.svg',
   './icon-512.svg',
   './apple-touch-icon.svg'
